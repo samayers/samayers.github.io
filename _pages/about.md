@@ -8,10 +8,10 @@ redirect_from:
 
 ## About Me
 
-My name is Sam Ayers and I'm a PhD student at the Goldman School of Public Policy at UC Berkeley. I study the causes and consequences of academic expectations and supports for students and educators.
+My name is Sam Ayers, and I am a PhD student at the Goldman School of Public Policy at the University of California, Berkeley. My research studies the causes and consequences of academic expectations and the supports provided to students and educators.
 
-I have previously worked as a graduate student fellow at the California Policy Lab where I worked with Professors Jesse Rothstein and Hilary Hoynes on the educational and health impact of the safety net in California. 
+I previously worked as a graduate student fellow at the California Policy Lab, where I collaborated with Professors Jesse Rothstein and Hilary Hoynes on research examining the educational and health impacts of the social safety net in California.
 
-Prior to coming to UC Berkeley, I worked on projects related to post-secondary readiness for rural high school students at the Center for Education Policy Research and on maternal and child health related RCTs at J-PAL. I have a B.A. in mathematical economics from Colorado College.
+Prior to coming to UC Berkeley, I worked on projects related to postsecondary readiness for rural high school students at the Center for Education Policy Research and on randomized controlled trials in maternal and child health at J-PAL. I hold a B.A. in Mathematical Economics from Colorado College.
 
-If you're interested in getting in touch, please reach me at sayers@berkeley.edu.
+If you are interested in getting in touch, please contact me at sayers@berkeley.edu.
